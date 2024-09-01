@@ -109,5 +109,3 @@ We would like to thank the following resources and communities for their support
 - [S3 Buckets](https://aws.amazon.com/s3/) for reliable and scalable storage.
 
 Thank you for checking out the Dynamic Price Forecasting project! We hope this solution helps you optimize your pricing strategies effectively. 🌟
-
-Feel free to customize the contact information, repository links, and any other specifics to better fit your project. If you have an architecture diagram, you can also update the placeholder in the Architecture section.
